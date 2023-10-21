@@ -1,4 +1,4 @@
-pandas
-numpy
-matplotlib
-pypi
+pyPDF2
+streamlit
+faiss-cpu
+altair
